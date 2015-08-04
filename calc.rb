@@ -18,8 +18,16 @@ puts 90 / 2
 puts "\n"
 
 puts "Texto"
-puts "Hola, mundo!"
+puts "Hola, mundo! " * 3
 puts "Estoy probando Ruby."
 puts "Que pases un muy buen día"
 puts "Adiós."
+
+puts "Diferencia entre numeros y texto:"
+puts "\n"
+puts "Esto es un número"
+puts 7
+puts "\n"
+puts "Esto es un texto de un dígito"
+puts "7"
 
