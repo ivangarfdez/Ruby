@@ -6,7 +6,7 @@ class Conversiones
 
   puts var1.to_s + var2
 
-#Conversion
+#Conversion a Int
   var3 = 7
   var4 = "7"
 
